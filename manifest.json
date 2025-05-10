@@ -1,0 +1,9 @@
+{
+  "name": "Bita Planner",
+  "short_name": "Bita",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5d4eb",
+  "description": "Study planner for focused and pretty daily plans.",
+  "icons": []
+}
